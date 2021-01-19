@@ -1,0 +1,17 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:form="sap.ui.layout.form">
+
+		<form:SimpleForm id="idSimpleForm">
+
+			<Label text="Product Id"></Label>
+			<Input id="id" value="{JNModel>ProductId}"  width="100%" ></Input>
+			<Label text="Product Name"></Label>
+			<Input id="Idname" value="{JNModel>name}" change="onNameValidation" width="100%"></Input>
+			<Label text="Product Company"></Label>
+			<Input id="IdCompy" value="{JNModel>company}" liveChange="onValidation" width="100%"></Input>
+			<Label text="Product Procesors"></Label>
+			<Input id="IdProcr" value="{JNModel>procesors}" width="100%"></Input>
+
+
+		</form:SimpleForm>
+
+</core:FragmentDefinition>

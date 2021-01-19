@@ -1,0 +1,78 @@
+{
+    "Products": [
+        {
+            "ProductId": "HP133C7",
+            "name": "Laptop 25",
+            "company": "HP",
+            "procesors": "intel CoreI5",
+            "price": 25000,
+            "quantity": "10"
+        },
+        {
+            "ProductId": "LNV13545",
+            "name": "Lenovo23",
+            "company": "Lenovo",
+            "procesors": "intel CoreI5",
+            "price": 30000,
+            "quantity": "5"
+        },
+        {
+            "ProductId": "HP131C8",
+            "name": "HP core 12",
+            "company": "HP",
+            "procesors": "intel CoreI5",
+            "price": 28000,
+            "quantity": "5"
+        },
+        {
+            "ProductId": "DL13110",
+            "name": "Dell",
+            "company": "DELL",
+            "procesors": "intel CoreI5",
+            "price": 30000,
+            "quantity": "5"
+        },
+        {
+            "ProductId": "DL175C5",
+            "name": "Dell0812",
+            "company": "DELL",
+            "procesors": "intel CoreI5",
+            "price": 30000,
+            "quantity": "5"
+        },
+        {
+            "ProductId": "Apple110",
+            "name": "MAC Book",
+            "company": "Apple",
+            "procesors": "intel CoreI5",
+            "price": 80000,
+            "quantity": "10"
+        },
+        {
+            "ProductId": "DL131524",
+            "name": "Dell",
+            "company": "DELL",
+            "procesors": "intel CoreI5",
+            "price": 30000,
+            "quantity": "5"
+        },
+        {
+            "name": "Chaitali"
+        }
+    ],
+    "AMulticombo": [
+        {
+            "name": "Laptop 25"
+        },
+        {
+            "name": "Dell"
+        },
+        {
+            "name": "Mac Book"
+        },
+        {
+            "name": "HP"
+        }
+    ],
+    "DynamicPanel":[]
+}
